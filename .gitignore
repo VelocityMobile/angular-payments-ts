@@ -6,8 +6,5 @@ npm-debug.log
 Thumbs.db
 .DS_Store
 
-# TSC files
-lib
-
 # Dist files
 dist
